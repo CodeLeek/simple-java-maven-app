@@ -26,5 +26,6 @@ pipeline {
             steps {
                 echo 'You did your thing with this one yung bull'
             }
+        }
     }
 }
